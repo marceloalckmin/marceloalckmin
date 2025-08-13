@@ -1,6 +1,6 @@
 ### Hi — I’m **Marcelo Alckmin** 👋
 
-- 🔭 **Studying** Software Engineering at INATEL (2021–2026)  
+-  🎓 **B.Sc.** in Software Engineering at INATEL (2021–2026)  
 - 🌱 **Currently focusing on:** Backend development (Spring Framework)  
 - 💼 **Research** at INATEL — working on backend & IoT integration of a face recognition system
 - 📫 marcelo.alckmin22@gmail.com  
