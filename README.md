@@ -17,15 +17,15 @@
 
 <div style="display:inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/cpp-Dark.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/cpp-Dark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/tensorflow.svg">
+  <img align="center" alt="Tensorflow" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/tensorflow.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
 </div>
 
 ---
