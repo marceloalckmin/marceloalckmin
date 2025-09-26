@@ -2,7 +2,7 @@
 
 -  🎓 **B.Sc.** in Software Engineering at INATEL (2021–2026)  
 - 🌱 **Currently focusing on:** Backend development (Spring Framework)  
-- 💼 **Research** at INATEL — working on backend & IoT integration of a face recognition system
+- 💼 **Research** at INATEL — working on AI & IoT integration of a face recognition system
 - 📫 marcelo.alckmin22@gmail.com  
 - 🔗 https://www.linkedin.com/in/marceloalckmin/
 
@@ -26,6 +26,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark..svg">
 </div>
 
 ---
